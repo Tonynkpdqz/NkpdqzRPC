@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Nkpdqz-RPC-Client/Nkpdqz-RPC-Client.iml" filepath="$PROJECT_DIR$/Nkpdqz-RPC-Client/Nkpdqz-RPC-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nkpdqz-RPC-Commons/Nkpdqz-RPC-Commons.iml" filepath="$PROJECT_DIR$/Nkpdqz-RPC-Commons/Nkpdqz-RPC-Commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nkpdqz-RPC-Server/Nkpdqz-RPC-Server.iml" filepath="$PROJECT_DIR$/Nkpdqz-RPC-Server/Nkpdqz-RPC-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NkpdqzRPC.iml" filepath="$PROJECT_DIR$/NkpdqzRPC.iml" />
+    </modules>
+  </component>
+</project>

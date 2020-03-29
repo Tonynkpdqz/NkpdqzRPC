@@ -1,0 +1,5 @@
+# Project exclude paths
+/Nkpdqz-RPC-Client/target/
+/Nkpdqz-RPC-Commons/target/
+/Nkpdqz-RPC-Server/target/
+/out/

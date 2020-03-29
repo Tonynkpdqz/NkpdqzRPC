@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Nkpdqz-RPC-Commons" />
+        <module name="Nkpdqz-RPC-Client" />
+        <module name="Nkpdqz-RPC-Server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Nkpdqz-RPC-Client" target="1.8" />
+      <module name="Nkpdqz-RPC-Commons" target="1.8" />
+      <module name="Nkpdqz-RPC-Server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Nkpdqz-RPC-Client" options="-parameters" />
+      <module name="Nkpdqz-RPC-Commons" options="-parameters" />
+      <module name="Nkpdqz-RPC-Server" options="-parameters" />
+    </option>
+  </component>
+</project>
